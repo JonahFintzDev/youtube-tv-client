@@ -16,12 +16,16 @@
       "package.json"
     ],
     "win": {
-      "target": ["portable"],
+      "target": [
+        "portable"
+      ],
       "icon": "img/icon/youtube.ico",
       "artifactName": "${productName}_v${version}_x64_win.${ext}"
     },
     "linux": {
-      "target": ["AppImage"],
+      "target": [
+        "AppImage"
+      ],
       "icon": "img/icon/youtube.png",
       "artifactName": "${productName}_v${version}_linux.${ext}",
       "category": "Utility"
