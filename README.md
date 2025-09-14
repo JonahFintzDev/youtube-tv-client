@@ -6,11 +6,11 @@
 A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App. 
 
 ## Installation 
-### Windows + Linux
+### Windows
 * Download the Executable 
 * Run downloaded file
 
-# Build from source (Also for Linux)
+# Build from source (also for Linux)
 * Clone git repository
 * Open the project folder in your IDE
 * run ```npm install```
