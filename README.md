@@ -1,7 +1,6 @@
 # YouTube Client (TV Interface)
 
-> **Note**
-> 
+> [!NOTE]
 > This client is a fork with added support for controller input, making it ideal for use on devices like the ROG Ally and other setups where navigation with a game controller is preferred.
 
 A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App. 
